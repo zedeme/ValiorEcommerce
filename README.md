@@ -1,2 +1,2 @@
 # ValiorEcommerce
-A ecommerce site 
+A e-commerce site.
